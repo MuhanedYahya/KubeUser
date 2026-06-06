@@ -7,6 +7,33 @@ entries:
         url: https://muhanedyahya.github.io/KubeUser/release-key.asc
       category: Infrastructure
     apiVersion: v2
+    appVersion: 0.0.0-test3
+    created: "2026-06-06T13:33:42.750825588Z"
+    description: A Helm chart for KubeUser - Kubernetes-native user management operator
+    digest: e88ffa35d6d39b830679bbfd98ba330d7f1c24c812d34cd9aed729ec06845b46
+    home: https://github.com/openkube-hub/KubeUser
+    keywords:
+    - kubernetes
+    - operator
+    - user-management
+    - rbac
+    - authentication
+    maintainers:
+    - name: KubeUser Team
+      url: https://github.com/openkube-hub/KubeUser
+    name: kubeuser
+    sources:
+    - https://github.com/openkube-hub/KubeUser
+    type: application
+    urls:
+    - https://github.com/MuhanedYahya/KubeUser/releases/download/kubeuser-0.0.0-test3/kubeuser-0.0.0-test3.tgz
+    version: 0.0.0-test3
+  - annotations:
+      artifacthub.io/signKey: |
+        fingerprint: 1C5268D1FA0BEB4C96866096BDDF0BB1E1075A77
+        url: https://muhanedyahya.github.io/KubeUser/release-key.asc
+      category: Infrastructure
+    apiVersion: v2
     appVersion: 0.0.0-test2
     created: "2026-06-06T13:14:58.021114389Z"
     description: A Helm chart for KubeUser - Kubernetes-native user management operator
@@ -28,4 +55,4 @@ entries:
     urls:
     - https://github.com/MuhanedYahya/KubeUser/releases/download/kubeuser-0.0.0-test2/kubeuser-0.0.0-test2.tgz
     version: 0.0.0-test2
-generated: "2026-06-06T13:14:58.021125907Z"
+generated: "2026-06-06T13:33:42.750842954Z"
